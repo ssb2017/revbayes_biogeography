@@ -1,6 +1,6 @@
 # revbayes_biogeography
 
-This is the home page for the "Biogeography in RevBayes" workshop on Jan 8, 2017 at the SSB meeting in Baton Rouge.
+This is the home page for the "Biogeography in RevBayes" workshop on Jan 8, 2017 at the SSB meeting in Baton Rouge. Please feel welcome to email me with any questions or concerns: `mlandis at gmail dot com`.
 
 ## Overview
 
@@ -35,6 +35,3 @@ This workshop will assume you have basic familiarity with RevBayes. If you were 
 * [RevGadgets](https://github.com/revbayes/RevGadgets)
 
 
-## Contact
-
-Please feel welcome to email me with any questions or concerns: `mlandis at gmail dot com`.
