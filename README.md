@@ -9,11 +9,12 @@ This workshop will cover the basics of the phylogenetic inference of historical 
 
 ## Tutorial and Resources
 
-The biogeography tutorial pdf and resources will be uploaded prior to the workshop.
+The pdf provides a line-by-line walkthrough of how to perform various biogeographic analyses in RevBayes.
+The zip file contains four directories: `scripts` contains `.Rev` scripts that match the tutorial exercises; `data` contains input files, including range and molecular data and tree files; `output_examples` contains output files from completed MCMC analyses; `output` contains an empty folder where output files may be stored.
 
-[Tutorial](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_Biogeography_Tutorial/RB_Biogeography_Tutorial.pdf)
+* [Tutorial](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_Biogeography_Tutorial/RB_Biogeography_Tutorial.pdf)
 
-[Workspace files](https://github.com/revbayes/revbayes_tutorial/raw/master/RB_Biogeography_Tutorial/RB_Biogeography_Tutorial_workspace.zip)
+* [Workspace files](https://github.com/revbayes/revbayes_tutorial/raw/master/RB_Biogeography_Tutorial/RB_Biogeography_Tutorial_workspace.zip) (unzip to create local workspace)
 
 
 
