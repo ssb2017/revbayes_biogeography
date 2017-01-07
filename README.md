@@ -11,11 +11,10 @@ This workshop will cover the basics of the phylogenetic inference of historical 
 
 The biogeography tutorial pdf and resources will be uploaded prior to the workshop.
 
-*NOTE:* These resources are currently under revision!
-
 [Tutorial](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_Biogeography_Tutorial/RB_Biogeography_Tutorial.pdf)
 
-[File repository](https://github.com/revbayes/revbayes_tutorial/tree/master/RB_Biogeography_Tutorial)
+[Workspace files](https://github.com/revbayes/revbayes_tutorial/raw/master/RB_Biogeography_Tutorial/RB_Biogeography_Tutorial_workspace.zip)
+
 
 
 ## Introductory Materials
