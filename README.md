@@ -16,6 +16,7 @@ The zip file contains four directories: `scripts` contains `.Rev` scripts that m
 
 * [Workspace files](https://github.com/revbayes/revbayes_tutorial/raw/master/RB_Biogeography_Tutorial/RB_Biogeography_Tutorial_workspace.zip) (unzip to create local workspace)
 
+* [Slides](https://github.com/ssb2017/revbayes_biogeography/raw/master/mlandis_170108_SSB_revbayes_biogeo_intro_slides.pdf)
 
 
 ## Introductory Materials
